@@ -35,7 +35,7 @@ Understanding these customer segments is crucial for businesses to target specif
 
 4. Optimum number of clusters:
    
-   Determine the optimal number of clusters for K-Means clustering using methods like the Elbow Method or Silhouette Score to ensure effective segmentation.
+   The optimum number of clusters is the number that best balances compactness and separation of clusters. You can find it by either looking for the "elbow" point in a plot of cluster sizes or choosing the number with the highest silhouette score.
    
 5. K-Means Clustering Algorithm using WCSS:
    

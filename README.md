@@ -59,3 +59,10 @@ Visualization of Clusters
 ![image](https://github.com/user-attachments/assets/fd81660b-e454-47c0-a03c-0123f23bd5f6)
 
 
+
+
+follow my linkedin or youtube to get more update: 
+
+https://www.linkedin.com/in/deepak-jha-a816b1248/
+
+https://www.youtube.com/watch?v=R6hCXtOPksw

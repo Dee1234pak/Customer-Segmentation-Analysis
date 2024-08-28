@@ -22,11 +22,22 @@ Understanding these customer segments is crucial for businesses to target specif
 **Work Flow will be follow as:**
 
 1. Customer data
+Gather customer data, including attributes such as annual income and spending score, to analyze purchasing behavior and segment the customer base.
+   
 2. Data Preprocessing
+   Clean and preprocess the data by handling missing values, normalizing features, and encoding categorical variables to prepare for analysis.
+   
 3. Data Analysis
-4. Optimum number of clusters 
-5. K-Means Clustering Algorithm
+   Perform exploratory data analysis to understand patterns, correlations, and trends within the customer data, providing insights into customer behavior.
+
+4. Optimum number of clusters
+   Determine the optimal number of clusters for K-Means clustering using methods like the Elbow Method or Silhouette Score to ensure effective segmentation.
+   
+5. K-Means Clustering Algorithm using WCSS
+   Apply the K-Means clustering algorithm and evaluate cluster quality using the Within-Cluster Sum of Squares (WCSS) to refine and validate the clustering process.
+  
 6. Visualizing the clusters
+    Create visual plots to display the identified clusters and their centroids, aiding in the interpretation and understanding of customer segments.
 
 
 The output of this project will be: 

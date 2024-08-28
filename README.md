@@ -23,7 +23,7 @@ Understanding these customer segments is crucial for businesses to target specif
 
 1. Customer data:
    
-Gather customer data, including attributes such as annual income and spending score, to analyze purchasing behavior and segment the customer base.
+   Gather customer data, including attributes such as annual income and spending score, to analyze purchasing behavior and segment the customer base.
    
 2. Data Preprocessing:
    

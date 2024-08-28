@@ -27,3 +27,8 @@ Understanding these customer segments is crucial for businesses to target specif
 4. Optimum number of clusters 
 5. K-Means Clustering Algorithm
 6. Visualizing the clusters
+
+
+![Screenshot 2024-08-28 220310](https://github.com/user-attachments/assets/c4026ff9-0329-49f4-8087-21e507481723)
+
+

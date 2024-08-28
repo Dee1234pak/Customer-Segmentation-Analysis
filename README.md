@@ -29,6 +29,11 @@ Understanding these customer segments is crucial for businesses to target specif
 6. Visualizing the clusters
 
 
+The output of this project will be: 
+
 ![Screenshot 2024-08-28 220310](https://github.com/user-attachments/assets/c4026ff9-0329-49f4-8087-21e507481723)
 
+![image](https://github.com/user-attachments/assets/39bb3750-4461-44b7-bda6-39dc37a8a8a9)
+
+![image](https://github.com/user-attachments/assets/a7186e10-c122-4a18-8d57-251961a4a220)
 
